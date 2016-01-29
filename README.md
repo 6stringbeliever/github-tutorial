@@ -32,7 +32,7 @@
 
 1. Which Nanodegree have you taken?
 
-  Android
+  Front End
 
 2. Which Octocat is your favorite?
 
@@ -43,3 +43,5 @@
   Android Studio and Sublime. Back in the day, Vim and Eclipse.
 
 4. What questions do you want to ask?
+
+  Why is GitHub so challenging for people with non-programming backgrounds? 
