@@ -32,7 +32,7 @@
 
 1. Which Nanodegree have you taken?
 
-  Front End
+  Android , Machine Learning
 
 2. Which Octocat is your favorite?
 
